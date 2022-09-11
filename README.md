@@ -24,3 +24,6 @@ We also aim to develop models and tools for every core NLP task like tokenizatio
 <br><code>python -m ipykernel install --user --name=venv</code>
 5. Launch jupyter notebook and run it's cells
 <br><code>jupyter notebook</code>
+
+For help
+"helper_classes" folder contains sample files for hendling the and traversing the data and performing different functionalities
